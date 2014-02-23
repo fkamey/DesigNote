@@ -6,7 +6,6 @@ DesigNote est une application ayant pour but de créer des notes personnalisées
 LIENS:
 
 Application: http://mathieugodefroid.be/designote/
-
 Site de présentation: http://mathieugodefroid.be/DesigNote/
 
 Vidéo: 
