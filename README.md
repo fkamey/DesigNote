@@ -19,10 +19,12 @@ GROUPE:
 
 site: http://jenniferdenis.be/blog/
 twitter: https://twitter.com/Brodylive
+
 • Camille Florquin:
 
 site: http://camilleflorquin.be/
 twitter: https://twitter.com/F_Kamey
+
 • Mathieu Godefroid:
 
 site: http://mathieugodefroid.be
